@@ -14,7 +14,7 @@ Credits
 
 
 
-This project uses province location maps from the "Latrans-Turkey location" series available on Wikimedia Commons.
+This project uses province location maps from the "Latrans-Turkey location" series and Turkey\_(orthographic\_projection).svg available on Wikimedia Commons.
 
 
 
@@ -23,6 +23,4 @@ The map files were uploaded and published by Wikimedia Commons user \*\*The Emir
 
 
 Appropriate attribution has been provided in accordance with the original license terms.
-
-
 

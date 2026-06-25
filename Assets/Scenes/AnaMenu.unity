@@ -357,8 +357,9 @@ MonoBehaviour:
     Tasar\u0131m\u0131 & Programlama</color></size>\r\n<b><color=white>Hasan H\xFCseyn
     \xD6z - Gemini</color></b>\r\n\r\n<size=90%><color=#888888>Destekleyen & Dan\u0131\u015Fman</color></size>\r\n<b><color=white>Bal
     Akademi Marmara \xDCniversitesi</color></b>\n\n<size=90%><color=#AAAAAA>Spriteler</color></size>\n<b><color=white>Harita
-    Sahibi Emirr \nWikimediaCommons File:Latrans-Turkey location \"il ismi\".svg
-    </color></b>\r\n\r\n<i><size=70%><color=#FFA6A6>@2026 - T\xFCm Haklar\u0131 Sakl\u0131d\u0131r.</color></size></i>"
+    ve ana men\xFC arkaplan Sahibi The Emirr \nWikimediaCommons File:Latrans-Turkey
+    location \"il ismi\".svg\nTurkey_(orthographic_projection).svg</color></b>\r\n\r\n<i><size=70%><color=#FFA6A6>@2026
+    - T\xFCm Haklar\u0131 Sakl\u0131d\u0131r.</color></size></i>"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -575,7 +576,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 0.06666667, g: 0.08627451, b: 0.14509805, a: 0.392}
+  m_Color: {r: 0.047483094, g: 0.06108402, b: 0.10188681, a: 0.8627451}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1394,8 +1395,8 @@ RectTransform:
   - {fileID: 1633698946}
   m_Father: {fileID: 616835828}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.1}
-  m_AnchorMax: {x: 0.5, y: 0.2}
+  m_AnchorMin: {x: 0.5, y: 0.05}
+  m_AnchorMax: {x: 0.5, y: 0.15}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 160, y: 0}
   m_Pivot: {x: 0.5, y: 0}

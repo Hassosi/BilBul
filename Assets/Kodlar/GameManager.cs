@@ -213,7 +213,7 @@ public class GameManager : MonoBehaviour
         skorYazisi.text = "SKOR: " + dogruCevapSayisi + " / " + toplamSoruSayisi;
     }
 
-    // --- SENİN HAZIRLADIĞIN PANELDEN TETİKLENECEK FONKSİYONLAR ---
+    // --- FONKSİYONLAR ---
     public void OyunuDurdur()
     {
         Time.timeScale = 0f; 

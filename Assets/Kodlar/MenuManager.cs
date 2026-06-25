@@ -37,8 +37,7 @@ public class MenuManager : MonoBehaviour
 
             // Butonun üzerindeki yazıyı ayarla
             yeniButon.GetComponentInChildren<TextMeshProUGUI>().text = butonYazilari[i];
-
-            // --- SİHİRLİ CİLA DOKUNUŞU ---
+            
             // Tek oyunculudan gelen siluet resmini ana menü butonlarında gizliyoruz
             Transform siluetGorseli = yeniButon.transform.Find("SiluetGorseli");
             if (siluetGorseli != null)
@@ -74,8 +73,6 @@ public class MenuManager : MonoBehaviour
 
     public void TekKisilikOyna()
     {
-        // İlk yaptığımız oyun sahnesinin adı neyse onu yazmalısın.
-        // Eğer ismi değiştirmediyse varsayılan "SampleScene"dir.
         SceneManager.LoadScene("TekOyunculu"); 
     }
 

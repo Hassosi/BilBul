@@ -83,7 +83,7 @@ public class MultiplayerManager : MonoBehaviour
     Sprite genelHarita = Resources.Load<Sprite>("GenelHaritalar/" + ingilizceIsim);
     Sprite kirpilmisHarita = Resources.Load<Sprite>("KirpilmisHaritalar/" + ingilizceIsim + "Kirp");
 
-    // --- SORU METİNLERİ BURADA DÜZELTİLDİ ---
+    // --- SORU METİNLERİ ---
     switch (mevcutSoruTipi)
     {
         case 1:
@@ -92,7 +92,6 @@ public class MultiplayerManager : MonoBehaviour
             p2HaritaGosterici.sprite = genelHarita; p2HaritaGosterici.color = Color.white;
             break;
         case 2:
-            // İşte eksik olan ve ekranın boş kalmasına sebep olan satır burasıydı!
             merkezBilgiMetni.text = $"Soru {mevcutSoruNumarasi}: Hangisi \"{mevcutDogruSehirAdi}\" ilinin silüetidir?";
             p1HaritaGosterici.color = Color.clear; p2HaritaGosterici.color = Color.clear; 
             break;
@@ -199,7 +198,7 @@ public class MultiplayerManager : MonoBehaviour
         if (p2SkorYazisi != null) p2SkorYazisi.text = "SKOR: " + p2Skor;
     }
 
-    // --- SENİN HAZIRLADIĞIN PANELDEN VE YENİ BUTONLARDAN TETİKLENECEK FONKSİYONLAR ---
+    // --- FONKSİYONLAR ---
     public void OyunuDurdur() { Time.timeScale = 0f; if (durdurmaPenceresi != null) durdurmaPenceresi.SetActive(true); }
     public void OyunuDevamEttir() { Time.timeScale = 1f; if (durdurmaPenceresi != null) durdurmaPenceresi.SetActive(false); }
     public void AnaMenuyeDon() { Time.timeScale = 1f; SceneManager.LoadScene("AnaMenu"); }
