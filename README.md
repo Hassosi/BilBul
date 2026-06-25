@@ -1,4 +1,34 @@
-Credits
+
+
+\# BilBul
+
+
+
+<p align="center">
+
+&#x20; <a href="https://hassosi.github.io/BilBul-Play/" target="\_blank">
+
+&#x20;   <img src="https://img.shields.io/badge/🕹️\_Play\_Game\_in\_Browser-🎮-blue?style=for-the-badge\&logo=unity" alt="Play Game">
+
+&#x20; </a>
+
+</p>
+
+
+
+
+
+> \\\[!NOTE]
+
+> \\\*\\\*Multiplayer Compatibility \\\& Control Notice:\\\*\\\*
+
+> The two-player (multiplayer) mechanics of this game were specifically designed and optimized for \\\*\\\*touchscreen systems\\\*\\\* (such as Interactive Smart Boards). Therefore, the controls for the cooperative mode may not offer an optimal experience when played with a standard keyboard and mouse.
+
+
+
+
+
+\## Credits
 
 
 
