@@ -4,17 +4,15 @@
 
 <p align="center">
 
-&#x20; <a href="https://hassosi.github.io/BilBul-Play/" target="\_blank">
-
-&#x20;   <button style="cursor: pointer; padding: 10px 20px;">Play the Game</button>
-
-&#x20; </a>
+&#x20; <a href="https://hassosi.github.io/BilBul-Play/" target="\_blank">Play the Game</a>
 
 </p>
 
 
 
 \---
+
+
 
 > \[!NOTE]
 
