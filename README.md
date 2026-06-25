@@ -4,15 +4,17 @@
 
 <p align="center">
 
-&#x20; \[!\[Play Game](https://img.shields.io/badge/▶\_PLAY\_GAME\_IN\_BROWSER-🎮-0078d4?style=for-the-badge\&logo=unity\&logoColor=white)](https://hassosi.github.io/BilBul-Play/)
+&#x20; <a href="https://hassosi.github.io/BilBul-Play/" target="\_blank">
+
+&#x20;   <button style="cursor: pointer; padding: 10px 20px;">Play the Game</button>
+
+&#x20; </a>
 
 </p>
 
 
 
 \---
-
-
 
 > \[!NOTE]
 
